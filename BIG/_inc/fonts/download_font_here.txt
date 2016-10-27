@@ -1,0 +1,4 @@
+Download the font file InputMonoCompressed-Bold.ttf
+and save it in this directory.
+
+http://input.fontbureau.com/download/
